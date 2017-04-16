@@ -4,3 +4,6 @@
 [submodule "App_Generator_Android"]
 	path = App_Generator_Android
 	url = https://github.com/utkarshnath/App_Generator_Android.git
+[submodule "Auto-Android-Frontend"]
+	path = Auto-Android-Frontend
+	url = https://github.com/utkarshnath/Auto-Android-Frontend.git
